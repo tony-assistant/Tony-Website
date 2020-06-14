@@ -18989,7 +18989,7 @@ a .h_head:hover {
 }
 .chat_img .round.one {
   background: #deeef1;
-  left: 0;
+  left: -112px;
   bottom: 120px;
 }
 .chat_img .round.two {
