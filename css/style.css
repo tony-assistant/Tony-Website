@@ -20143,3 +20143,10 @@ a .h_head:hover {
 /*====================================================*/
 
 /*# sourceMappingURL=style.css.map */
+.logo-center {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
