@@ -1,5 +1,11 @@
 
 # Site do Tony
+
+![Captura da tela](/capture.png)
+
+
+
+
 Desenvolvimento do site do Tony Assistente. Um assistente virtual inteligente para WhatsApp que tem como princípio o foco na saúde e na segurança do motorista.
 
 ## Instalação
